@@ -26,9 +26,9 @@ dog_dataset/
 │   └── img2.jpg
 ├── breed_2/
 │   └── ...
-└── ... (всего 5 папок для 5 пород)
+└── ... (всего 5 папок для 5 пород) ```
 
 Установка и требования
 
 Убедитесь, что у вас установлен Python версии 3.8+ и необходимые библиотеки. Установить зависимости можно одной командой:
-pip install torch torchvision matplotlib seaborn scikit-learn pillow sympy
+pip install torch torchvision matplotlib seaborn scikit-learn pillow sympy 
